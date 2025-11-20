@@ -64,7 +64,7 @@ Termin
    Jakaś tam definicja
 
 
-.. image:: image/kotki.jpg
+.. image:: https://static.pomagam.pl/media/project_photos/project_137168_1602493370.jpeg
    :width: 100%
    :align: center
    :alt: Tekst alternatywny
