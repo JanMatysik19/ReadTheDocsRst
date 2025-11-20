@@ -1,5 +1,5 @@
-API
-===
+Sprawozdanie RtD
+================
 
 .. autosummary::
    :toctree: generated
