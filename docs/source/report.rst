@@ -88,3 +88,5 @@ Lista zadań wykonanych i niewykonanych nie istnieje natywnie
 
 - [x] Zrobione
 - [ ] Niezrobione
+
+
