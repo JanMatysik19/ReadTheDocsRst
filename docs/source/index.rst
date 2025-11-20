@@ -4,5 +4,5 @@ Strona główna
 .. toctree::
 
    index
-   report
+   report_rst
    contact
